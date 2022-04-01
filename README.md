@@ -8,14 +8,14 @@
      <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"></img>
    </a>
    
-   <h1>Welcome to my GitHub!👋</h1>
+   <h1>Welcome to my GitHub👋</h1>
    
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=lrmaser.visitor-badge&right_color=red) 
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=lrmaser.92398763&right_color=red)
 </div>
 
 ## About Me
 
-😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 
 </br>
 
@@ -36,13 +36,20 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </div>
 
 </br>
 
 ## GitHub Stats
 
+<div align='center'>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrmaser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrmaser&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
+</div>
+   
 </br>
 
 ## Projects
