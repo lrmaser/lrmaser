@@ -45,23 +45,31 @@
 
 ## GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrmaser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrmaser&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
+<div align='center'>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrmaser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrmaser&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
+</div>
    
 </br>
 
-## Projects
+<!-- ## Projects - Leaving out for now since they're pinned on page -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lrmaser&repo=tism&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/lrmaser/tism)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lrmaser&repo=tism&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/lrmaser/tism)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lrmaser&repo=leet-up&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/lrmaser/leet-up)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miajoubert&repo=petsy&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/miajoubert/petsy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsmaldone&repo=good-game-guides&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/alexsmaldone/good-game-guides)
 
-</br>
+</br> -->
 
 ## Contact Me
 
+- 📫 Email: laura.maser3@yahoo.com
+
 </br>
+
+<div align='center'>
+   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+</div>
 
 <!--
 **lrmaser/lrmaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
