@@ -10,7 +10,7 @@
    
    <h1>Welcome to my GitHub👋</h1>
    
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=lrmaser.92398763&right_color=red)
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=lrmaser.lrmaser&right_color=red)
 </div>
 
 ## About Me
@@ -45,14 +45,17 @@
 
 ## GitHub Stats
 
-<div align='center'>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrmaser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrmaser&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrmaser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lrmaser&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight"/>
    
 </br>
 
 ## Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lrmaser&repo=tism&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/lrmaser/tism)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lrmaser&repo=leet-up&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/lrmaser/leet-up)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miajoubert&repo=petsy&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/miajoubert/petsy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsmaldone&repo=good-game-guides&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/alexsmaldone/good-game-guides)
 
 </br>
 
