@@ -1,23 +1,15 @@
 <!-- Add image here? -->
 
 <div align='center'>
-   <a href="https://www.linkedin.com/in/laura-maser-225196b2/">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-   </a>
-   <a href="https://angel.co/u/laura-maser">
-     <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"></img>
-   </a>
-   
    <h1>Welcome to my GitHub👋</h1>
-   
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=lrmaser.lrmaser&right_color=red)
 </div>
 
-## About Me
+<!-- ## About Me
 
+Pronouns are available on GitHub now, should fill this section in eventually
 - 😄 Pronouns: She/Her
 
-</br>
+</br> -->
 
 ## Technologies (so far...)
 
@@ -60,12 +52,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexsmaldone&repo=good-game-guides&theme=tokyonight&card_width=500&hide_border=true)](https://github.com/alexsmaldone/good-game-guides)
 
 </br> -->
-
-## Contact Me
-
-- 📫 Email: laura.maser3@yahoo.com
-
-</br>
 
 <div align='center'>
    <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
